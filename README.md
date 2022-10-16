@@ -20,6 +20,7 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 <div>
-  <a href="https://wa.me/5521976997487" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  	
+  <a href="https://wa.me/5521976997487" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="[https://wa.me/5521976997487](https://www.tiktok.com/@piramideconstrucoes?is_from_webapp=1&sender_device=pc)" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   
 </div>
